@@ -52,6 +52,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://theme-toggler-using-context-api.vercel.app/ "Theme Toggler")
 
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
