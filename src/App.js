@@ -7,7 +7,7 @@ const App = () => {
   return (
     <ThemeContext.Provider value={themeHook}>
       <div>
-        <Header />
+        
         <HeroSection />
       </div>
     </ThemeContext.Provider>
